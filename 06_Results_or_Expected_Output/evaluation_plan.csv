@@ -1,0 +1,7 @@
+metric,formula_or_method,success_condition
+Risk-record completeness,Completed required fields divided by total required fields,At least 90 percent
+Applicable-control coverage,Mapped applicable outcomes divided by total applicable reference outcomes,At least 80 percent
+Treatment traceability,Priority risks with treatment owner and evidence divided by priority risks,100 percent for high and critical risks
+Residual-risk reduction,Total initial risk minus total residual risk divided by total initial risk,Positive reduction and no untreated critical risk
+Repeatability,Compare outputs from identical input values,100 percent agreement
+Baseline improvement,Proposed framework minus checklist result,At least 20 percentage points for completeness and traceability

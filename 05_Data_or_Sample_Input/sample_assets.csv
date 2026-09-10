@@ -1,0 +1,10 @@
+scenario,asset_id,asset,business_purpose,data_type,owner
+Retail SME,R-A1,Point-of-sale terminal,Process customer sales,Payment and transaction data,Operations Manager
+Retail SME,R-A2,Cloud accounting account,Maintain invoices and financial records,Financial and identity data,Finance Manager
+Retail SME,R-A3,Shared employee email,Customer and supplier communication,Email and attachments,Business Owner
+Professional Services,P-A1,Client document repository,Store and exchange project documents,Client confidential information,Practice Manager
+Professional Services,P-A2,Remote access service,Support hybrid work,Credentials and session data,IT Administrator
+Professional Services,P-A3,Employee laptops,Create and access client work,Local files and cached credentials,Department Heads
+Online Services,O-A1,Public website,Provide customer-facing services,Public content and session data,Product Manager
+Online Services,O-A2,Cloud customer database,Store account and transaction records,Personal and transaction data,Data Owner
+Online Services,O-A3,Administrator accounts,Manage production services,Privileged credentials,Technical Lead

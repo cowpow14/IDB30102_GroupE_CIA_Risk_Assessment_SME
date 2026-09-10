@@ -13,6 +13,7 @@
 | Yusry Bin Zahid | 52215125710 |
 | Alif Fayyad Bin Mohammad Nazri | 52215125967 |
 
+
 ## Research problem
 
 1. Malaysian SMEs may find it difficult to translate broad security standards into a traceable process connecting assets, CIA requirements, threats, risk scores and affordable treatment actions.
@@ -82,10 +83,36 @@ Expected console output includes the number of processed risks, counts by risk l
 | RO2 | Architecture, flowchart and transparent scoring logic | `03_Architecture_and_Flowchart/`, `04_Source_Code/` |
 | RO3 | Synthetic inputs, generated register and evaluation measures | `05_Data_or_Sample_Input/`, `06_Results_or_Expected_Output/` |
 
+## Group Member Contributions
+
+### Elis Karisha Binti Kamarul Hisam
+- Updated research objectives and methodology
+- Refined README and repository structure
+- Added literature review evidence
+
+### Siti NurDamia Afiqah Binti Azree
+- Added literature comparison and research gaps
+- Updated supporting studies
+
+### Yusry Bin Zahid
+- Added framework architecture and flowchart
+- Refined CIA risk-assessment process
+
+### Alif Fayyad Bin Mohammad Nazri
+- Added Python scoring logic
+- Added synthetic risk records and evaluation outputs
+
 ## Ethics, limitations and attribution
 
 All sample records are synthetic. No live systems, personal data, credentials or confidential company information are included. This repository does not reproduce copyrighted ISO standard text and does not claim ISO certification. External sources and standards are acknowledged in `07_References/`.
 
-## Before submission
+## Project Summary
 
-Replace the placeholder GitHub URL in the proposal and slides, confirm lecturer access, add both unlisted YouTube links, and ensure each member makes meaningful commits that reflect work actually completed.
+This project proposes a practical information-security risk assessment framework for Malaysian SMEs based on the CIA triad and aligned with recognised security frameworks.
+
+The framework focuses on making the relationship between business context, assets, security impact, threats, risk scores, security outcomes, treatment actions and residual risks easier to trace.
+
+The framework will be evaluated using synthetic SME scenarios and compared against a basic unstructured checklist using consistent evaluation measures.
+
+
+

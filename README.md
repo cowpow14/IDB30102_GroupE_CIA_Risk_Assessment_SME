@@ -98,9 +98,6 @@ Expected console output includes the number of processed risks, counts by risk l
 - Added framework architecture and flowchart
 - Refined CIA risk-assessment process
 
-### Alif Fayyad Bin Mohammad Nazri
-- Added Python scoring logic
-- Added synthetic risk records and evaluation outputs
 
 ## Ethics, limitations and attribution
 
